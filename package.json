@@ -1,0 +1,31 @@
+{
+  "name": "Benim Discord",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Yigit",
+  "license": "ISC",
+  "dependencies": {
+    "ahmetesad": "^2.5.0",
+    "discord-economy": "^1.1.6",
+    "discord.js": "^11.4.2",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "google-books-search": "^0.3.1",
+    "google-books-search-2": "^0.3.0",
+    "hypixel": "^1.0.3",
+    "jimp": "^0.6.0",
+    "moment": "^2.22.2",
+    "ms": "^2.1.1",
+    "opusscript": "0.0.6",
+    "request": "^2.88.0",
+    "return-deep-diff": "^0.3.0",
+    "simple-youtube-api": "^5.1.1",
+    "superagent": "^4.0.0",
+    "xmlhttprequest": "^1.8.0",
+    "ytdl-core": "^0.29.1"
+  }
+}
